@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://bibleholy.github.io/before-dawn/2020/10/13/befort-dawn/</loc>
+    
+    <lastmod>2020-10-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://bibleholy.github.io/before-dawn/2020/10/14/hello-world/</loc>
+    
+    <lastmod>2020-10-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://bibleholy.github.io/before-dawn/2020/10/13/%E9%99%84%E5%BD%95/readme/</loc>
+    
+    <lastmod>2020-10-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://bibleholy.github.io/before-dawn/%E9%99%84%E5%BD%95/index.html</loc>
+    
+    <lastmod>2020-10-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://bibleholy.github.io/before-dawn/%E9%99%84%E5%BD%95/readme.html</loc>
+    
+    <lastmod>2020-10-14</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>https://bibleholy.github.io/before-dawn</loc>
+    <lastmod>2020-10-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+
+  
+  <url>
+    <loc>https://bibleholy.github.io/before-dawn/categories/java/</loc>
+    <lastmod>2020-10-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://bibleholy.github.io/before-dawn/categories/tip/</loc>
+    <lastmod>2020-10-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
