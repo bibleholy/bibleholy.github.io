@@ -144,13 +144,13 @@ sitemap:
   path: sitemap.xml
 
 # Gitalk
-#gitTalk:
-#  clientId: ***
-#  clientSecret: ***
-#  repo: ***
-#  owner: ***
-#  admin:
-#  - ***
+gitTalk:
+  clientId: e62482c073fc83fb65fc
+  clientSecret: 5b12b58e1210834c2abbc9d60faf408754f4c57d
+  repo: https://bibleholy.github.io/
+  owner: Xingzq
+  admin:
+  - Xingzq
 
 # Math Equations Render Support
 math:

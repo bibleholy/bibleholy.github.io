@@ -8,6 +8,10 @@ tags:
     - hexo
 categories:
     - hexo
+cover: /image/banner1.jpg
+editor:
+  name: Minfive
+  link: https://www.github.com/Mrminfive
 ---
 
 _**start hexo blog**_
