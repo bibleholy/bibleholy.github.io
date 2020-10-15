@@ -5,7 +5,7 @@
 # Site
 title: 凌晨夜读
 subtitle: '凌晨夜读'
-description: '日常学习与兴趣交流的个人博客'
+description: '日常学习与兴趣交流的个人博客，并渴望寻找生活的激情与乐趣'
 subtitle_desc: '对生活时刻保持激情'
 keywords: 程序员,中国好青年
 #author: Xingzq
@@ -122,7 +122,7 @@ menu:
   home: /
   archive: /archives
   about: /about
-#  search: /search
+  Netty: https://dongzl.github.io/netty-handbook/
 
 author:
   name: Xingzq

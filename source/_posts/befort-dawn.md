@@ -2,10 +2,14 @@
 title: befort dawn
 date: 2020-10-15 18:34:24
 author:
-    name:
-       邢志强
+   nick:邢志强
+   link: https://www.github.com/bibleholy
 tags:
+    - hexo
 categories:
-    - java
+    - hexo
 ---
 
+_**start hexo blog**_
+
+`Print Hello Word!`

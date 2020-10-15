@@ -3,6 +3,17 @@ friend_links:
   desc: 美团技术团队
   link: https://tech.meituan.com/
 
+- name: 董宗磊
+  desc: 董宗磊
+  link: https://dongzl.github.io/
+
+- name: 阮一峰
+  desc: 阮一峰
+  link: http://www.ruanyifeng.com/
+
+- name: 屈定
+  desc: 屈定
+  link: https://mrdear.cn/
 build_tools:
 - name: Hexo
   desc: Blog Framework
