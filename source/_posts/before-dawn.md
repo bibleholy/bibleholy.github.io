@@ -2,7 +2,10 @@
 title: before dawn
 date: 2020-10-15 18:34:24
 author:
-   name:邢志强
+   name:
+      邢志强
+   link:
+      https://www.github.com/bibleholy/
 tags:
     - hexo
 categories:
