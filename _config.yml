@@ -146,7 +146,7 @@ sitemap:
 # Gitalk
 gitTalk:
   clientId: de8c0015943f58a52c3b
-  clientSecret: 599190adf3832490a2632fdb93b714478f64c1dc
+  clientSecret: 9fdd2c79b9cde72464fb14e8b3a8f290156fa002
   repo: bibleholy.github.io
   owner: xingzq
   admin:
