@@ -14,6 +14,9 @@ editor:
   link: https://www.github.com/Mrminfive
 ---
 
-_**start hexo blog**_
+##start hexo blog
 
-`Print Hello Word!`
+``` bash
+$hexo new 'My new Post'
+```
+More info: [Server](https://hexo.io/docs/server.html)
