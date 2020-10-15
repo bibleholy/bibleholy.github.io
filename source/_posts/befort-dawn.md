@@ -9,9 +9,6 @@ tags:
 categories:
     - hexo
 cover: /image/banner1.jpg
-editor:
-  name: Minfive
-  link: https://www.github.com/Mrminfive
 ---
 
 ##start hexo blog
