@@ -1,0 +1,9 @@
+- title: github
+  icon: icon-github
+  link: https://github.com/bibleholy
+- title: email
+  icon: icon-email
+  link: mailto:282605418@qq.com
+- title: rss
+  icon: icon-rss
+  link: /atom.xml
