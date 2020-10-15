@@ -11,7 +11,7 @@ keywords: 程序员,中国好青年
 #author: Xingzq
 language: zh-cn
 timezone: ''
-favicon_ico: https://blog.static.minfive.com/other/favicon.ico
+favicon_ico: /img/timg.gif
 logo: /img/loading.gif
 qrcode: /img/qrcode.jpg
 default_cover: /img/timg.jpg
