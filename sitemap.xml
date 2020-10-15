@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://bibleholy.github.io/2020/10/15/before-dawn/</loc>
+    
+    <lastmod>2020-10-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://bibleholy.github.io/2020/10/15/hello-world/</loc>
+    
+    <lastmod>2020-10-15</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://bibleholy.github.io/404.html</loc>
     
     <lastmod>2020-10-15</lastmod>
@@ -31,6 +45,20 @@
   </url>
 
   
+  <url>
+    <loc>https://bibleholy.github.io/tags/hexo/</loc>
+    <lastmod>2020-10-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://bibleholy.github.io/categories/hexo/</loc>
+    <lastmod>2020-10-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
